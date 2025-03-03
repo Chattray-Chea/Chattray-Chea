@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Chattray Chea**
 - 👀 I’m interested in all things nature. Foraging for 🍄, digging in the sand and stones for :gem:, or throwing a line down a river for a 🐟. You'll probably find me somehwere amongst a forest of :evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree: in my free time.
-- 🌱 BCS-SDE 2027. I’m currently learning java/python. Collecting, processing, analyzing data. The process of making another process better.
+- 🌱 What I know >>> Java - Javascript - Python - C# : SQLite - MongoDB - Docker/Kubernetes - AWS : Bootstrap - React - Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Chattray.Chea@gmail.com
 
