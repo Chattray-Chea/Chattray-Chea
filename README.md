@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Tray**!
   - 
 - 👀 My hobbies include:
-  - Foraging for 🍄
+  - Foraging for wild edible 🍄
   - Digging in the sand and stones for :gem:
   - Throwing a line down a river for a 🐟
   > You'll probably find me somehwere amongst a forest of :evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree: in my free time.
