@@ -1,10 +1,10 @@
 - 👋 Hi, I’m **Tray**!
   - 
-- 👀 My hobbies include:
-  - Foraging for wild edible 🍄
-  - Digging in the sand and stones for :gem:
-  - Throwing a line down a river for a 🐟
-  > You'll probably find me somehwere amongst a forest of :evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree: in my free time.
+- My hobbies include:
+  - Foraging for wild edibles 🍄
+  - Digging through sand and stones for gems :gem:
+  - Throwing a line down a river for a fish 🐟
+  > You'll probably find me somehwere amongst a forest of :evergreen_tree::deciduous_tree:trees:evergreen_tree::deciduous_tree: in my free time.
 - 📚 I have skills in software design, front-end and back-end development, testing, and version control, while applying computer science fundamentals and industry-aligned development practices to real-world problem solving.
 - 🌱 What I know:
   > Java - Javascript - Python - C# > SQLite - MongoDB - Docker/Kubernetes - AWS > Bootstrap - React - Angular
